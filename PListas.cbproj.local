@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/11/26 22:41:02.000.471,=C:\Users\HP\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2021/11/26 22:41:02.000.490,=C:\Users\HP\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2021/11/26 22:41:13.000.518,=C:\Users\HP\Desktop\Estructura de Datos\Listas\Nodo.cpp</Transaction>
+    <Transaction>2021/11/26 22:41:31.000.694,C:\Users\HP\Desktop\Estructura de Datos\Random\AleatorioPractico\UPrincipal.h=C:\Users\HP\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2021/11/26 22:41:31.000.694,C:\Users\HP\Desktop\Estructura de Datos\Random\AleatorioPractico\UPrincipal.cpp=C:\Users\HP\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2021/11/26 22:41:31.000.694,C:\Users\HP\Desktop\Estructura de Datos\Random\AleatorioPractico\UPrincipal.dfm=C:\Users\HP\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021/11/26 22:41:41.000.443,C:\Users\HP\Desktop\Estructura de Datos\Random\AleatorioPractico\Project1PCH1.h=C:\Users\HP\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2021/11/26 22:41:53.000.083,C:\Users\HP\Desktop\Estructura de Datos\Random\AleatorioPractico\PListasPCH1.h=C:\Users\HP\Desktop\Estructura de Datos\Random\AleatorioPractico\Project1PCH1.h</Transaction>
+    <Transaction>2021/11/26 22:41:53.000.100,C:\Users\HP\Desktop\Estructura de Datos\Random\AleatorioPractico\PListas.cbproj=C:\Users\HP\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2021/11/26 23:41:05.000.396,C:\Users\HP\Desktop\Estructura de Datos\Random\AleatorioPractico\PListasPCH1.h=</Transaction>
+    <Transaction>2021/11/27 18:16:24.000.445,C:\Users\HP\Desktop\Estructura de Datos\Listas\Nodo.cpp=</Transaction>
+    <Transaction>2021/11/27 18:16:31.000.052,=C:\Users\HP\Desktop\Estructura de Datos\Random\AleatorioPractico\Nodo.cpp</Transaction>
+    <Transaction>2022/01/26 17:31:45.000.463,=C:\Users\AlanJoelAriasMoron\Desktop\Listas\Unit2.cpp</Transaction>
+    <Transaction>2022/01/27 16:44:37.965,=C:\Users\AlanJoelAriasMoron\Desktop\Listas\Unit1.cpp</Transaction>
+    <Transaction>2022/01/27 16:51:03.984,C:\Users\AlanJoelAriasMoron\Desktop\Listas\UNodo.cpp=C:\Users\AlanJoelAriasMoron\Desktop\Listas\Unit1.cpp</Transaction>
+    <Transaction>2022/01/27 16:51:03.984,C:\Users\AlanJoelAriasMoron\Desktop\Listas\UNodo.h=C:\Users\AlanJoelAriasMoron\Desktop\Listas\Unit1.h</Transaction>
+  </Transactions>  <ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="Nodo.cpp"/>
+    <File Path="Nodo.cpp"/>
+    <File Path="Nodo.h"/>
+    <File Path="PListas.cpp"/>
+    <File Path="Unit2.cpp"/>
+    <File Path="Unit2.cpp"/>
+    <File Path="Unit2.dfm"/>
+    <File Path="Unit2.h"/>
+    <File Path="UNodo.cpp"/>
+    <File Path="UNodo.cpp"/>
+    <File Path="UNodo.h"/>
+    <File Path="UPrincipal.cpp"/>
+    <File Path="UPrincipal.cpp"/>
+    <File Path="UPrincipal.dfm"/>
+    <File Path="UPrincipal.h"/>
+  </ProjectSortOrder>
+</BorlandProject>
